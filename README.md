@@ -2,7 +2,7 @@
 
 灵感来源于`青年一键学习`，本项目为高仿青年大学习的完成页面(可能存在瑕疵)
 
-本项目使用了[LayUi](https://layuion.com/)、[jQuery](https://jquery.com)
+本项目使用了LayUi、[jQuery](https://jquery.com)
 
 项目完全免费且开源，本项目不支持过旧的大学习链接。推荐PHP版本7.0(或更高)
 

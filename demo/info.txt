@@ -1,4 +1,4 @@
 qndxx
-version: 1.0.0
-UpdateTime: 2023/04/23
+version: 1.1.0
+UpdateTime: 2023/06/29
 Url: https://github.com/wzdc/qndxx
